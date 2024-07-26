@@ -18,7 +18,7 @@ function navbar()
                             <div className="col-md-1 p-2 " style={{backgroundColor:'#67479C'}} ></div>
                             <div className="col-md-7 text-white justify-content-center" style={{fontFamily:'sans-serif',fontWeight:'bolder',backgroundColor:'#67479C'}}>
                                 <div className=""style={{marginTop:'14px',fontSize:'14px'}}>
-                                    <span><ion-icon name="call" className=''></ion-icon>95525 54010</span>
+                                    <span><ion-icon name="call" className=''></ion-icon>9657848754</span>
                                     <span style={{marginLeft:'32px'}}>खाते उघडा</span>
                                     <span style={{marginLeft:'32px'}}>मुदत ठेवी</span>
                                     <span style={{marginLeft:'32px'}}>आवर्ती ठेवी</span>
