@@ -9,11 +9,11 @@ function navbar()
                     <div className="container-fluid">
                         <div className="row" style={{boxSizing:'border-box'}}>
                             <div className="col-md-3 p-2 " style={{borderBottom:'1px solid black',borderTop:'1px solid black',boxSizing:'border-box'}}>
-                                <img src="/images/facebook.png" width={'30px'} style={{marginLeft:'20px'}} height={'30px'}></img>
-                                <img src="/images/instagram.png" width={'30px'} style={{marginLeft:'20px'}} height={'30px'}></img>
-                                <img src="/images/twitter.png" width={'30px'} style={{marginLeft:'20px'}} height={'30px'}></img>
-                                <img src="/images/whatsapp1.png" width={'30px'} style={{marginLeft:'20px'}} height={'30px'}></img>
-                                <img src="/images/youtube.png" width={'30px'} style={{marginLeft:'20px'}} height={'30px'}></img>
+                                <img src="images/facebook.png" width={'30px'} style={{marginLeft:'20px'}} height={'30px'}></img>
+                                <img src="images/instagram.png" width={'30px'} style={{marginLeft:'20px'}} height={'30px'}></img>
+                                <img src="images/twitter.png" width={'30px'} style={{marginLeft:'20px'}} height={'30px'}></img>
+                                <img src="images/whatsapp1.png" width={'30px'} style={{marginLeft:'20px'}} height={'30px'}></img>
+                                <img src="images/youtube.png" width={'30px'} style={{marginLeft:'20px'}} height={'30px'}></img>
                             </div>
                             <div className="col-md-1 p-2 " style={{backgroundColor:'#67479C'}} ></div>
                             <div className="col-md-7 text-white justify-content-center" style={{fontFamily:'sans-serif',fontWeight:'bolder',backgroundColor:'#67479C'}}>
